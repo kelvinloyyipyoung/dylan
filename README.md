@@ -1,8 +1,8 @@
-# dylan
+# elephant
 
-dylan is a web application that allows users to search for sku codes from product names in relation to Four Fashion Australia. The application leverages Flask for the web framework, BeautifulSoup for web scraping, and Google GenAI for content generation.
+elephant is a web application that allows users to search for sku codes from product names in relation to Four Fashion Australia. The application leverages Flask for the web framework, BeautifulSoup for web scraping, and Google GenAI for content generation.
 
-I made this to help automate tasks at my part time job at Four Fashion Australia.
+I made this to help automate tasks for my part time job.
 
 ## Features
 
@@ -21,8 +21,8 @@ I made this to help automate tasks at my part time job at Four Fashion Australia
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/dylan.git
-   cd dylan
+   git clone https://github.com/kelvinloyyipyoung/elephant.git
+   cd elephant
    ```
 
 2. Create a virtual environment:
